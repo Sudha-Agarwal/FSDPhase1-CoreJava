@@ -4,6 +4,7 @@ package sortingSearching;
 
 import java.util.Arrays;
 
+
 class SelectionSort {
 	void selectionSort(int array[]) {
 		int size = array.length;

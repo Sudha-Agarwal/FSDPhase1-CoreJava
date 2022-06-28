@@ -7,8 +7,7 @@ class SynchronizedReceiver implements Runnable {
 
     public SynchronizedReceiver(Data data) {
         this.data = data;
-    }
-       
+    }       
 
     @Override
     public void run() {
